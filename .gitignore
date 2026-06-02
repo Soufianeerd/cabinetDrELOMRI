@@ -1,0 +1,21 @@
+# Env & secrets
+.env
+.env.local
+.env.*.local
+
+# Fichiers temporaires
+*.py
+move_section.py
+*.zip
+*.bak
+
+# Éditeurs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (si besoin futur)
+node_modules/
